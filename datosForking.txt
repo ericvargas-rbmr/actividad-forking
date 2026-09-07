@@ -6,3 +6,4 @@ Datos del estudiante:
 Nombre: Univ. Eric Robert Vargas Morales
 Carrera: Ingenieria informatica
 Semestre: Cuarto
+Mencion: Telamatica
